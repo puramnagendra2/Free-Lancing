@@ -1,0 +1,6 @@
+# Ignore all .zip files
+*.zip
+
+# Ignore all .docx files
+*.docx
+Linear Regression/
